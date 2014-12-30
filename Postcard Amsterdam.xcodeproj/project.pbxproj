@@ -13,6 +13,7 @@
 		AAB00C2D1A51D39B008F37D1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAB00C2C1A51D39B008F37D1 /* Images.xcassets */; };
 		AAB00C301A51D39B008F37D1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = AAB00C2E1A51D39B008F37D1 /* LaunchScreen.xib */; };
 		AAB00C3C1A51D39B008F37D1 /* Postcard_AmsterdamTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAB00C3B1A51D39B008F37D1 /* Postcard_AmsterdamTests.swift */; };
+		AAB00C461A51D450008F37D1 /* testteaser6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AAB00C451A51D450008F37D1 /* testteaser6.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		AAB00C351A51D39B008F37D1 /* Postcard AmsterdamTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Postcard AmsterdamTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAB00C3A1A51D39B008F37D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AAB00C3B1A51D39B008F37D1 /* Postcard_AmsterdamTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Postcard_AmsterdamTests.swift; sourceTree = "<group>"; };
+		AAB00C451A51D450008F37D1 /* testteaser6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = testteaser6.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		AAB00C231A51D39B008F37D1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AAB00C451A51D450008F37D1 /* testteaser6.jpg */,
 				AAB00C241A51D39B008F37D1 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AAB00C461A51D450008F37D1 /* testteaser6.jpg in Resources */,
 				AAB00C2B1A51D39B008F37D1 /* Main.storyboard in Resources */,
 				AAB00C301A51D39B008F37D1 /* LaunchScreen.xib in Resources */,
 				AAB00C2D1A51D39B008F37D1 /* Images.xcassets in Resources */,
